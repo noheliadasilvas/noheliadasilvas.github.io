@@ -318,7 +318,6 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
-		gap: 20px;
 		justify-content: space-between;
 	}
 
