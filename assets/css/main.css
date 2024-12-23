@@ -134,7 +134,7 @@ input, select, textarea {
 		color: #52616A; 
 		font-weight: 300;
 		line-height: 1.5em;
-		font-size: 2em;
+		font-size: 1.2em;
 	}
 
 	p.intro-text {
@@ -297,12 +297,12 @@ input, select, textarea {
 /* Row */
 
 	article.item {
-		border: 1px solid #ddd; /* Light gray border for a clean look */
-		border-radius: 8px; /* Rounded corners for a modern feel */
-		padding: 20px; /* Space inside the border */
-		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-		background-color: #f9f9f9; /* Light background for distinction */
-		margin-bottom: 20px; /* Spacing between articles */
+		border: 1px solid #ddd;
+		border-radius: 8px;
+		padding: 20px;
+		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+		background-color: #f9f9f9;
+		margin-bottom: 20px;
 	}
 
 	.row {
@@ -311,6 +311,7 @@ input, select, textarea {
 		box-sizing: border-box;
 		align-items: stretch;
 		gap: 20px;
+		justify-content: space-between;
 	}
 
 		.row > * {
