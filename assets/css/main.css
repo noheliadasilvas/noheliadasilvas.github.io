@@ -134,19 +134,19 @@ input, select, textarea {
 		color: #52616A; 
 		font-weight: 300;
 		line-height: 1.5em;
-		font-size: 1.2em;
+		font-size: 2em;
 	}
 
 	p.intro-text {
 		color: white;
 		line-height: 1.5em;
-		font-size: 1.2em;
+		font-size: 1em;
 	}
 
 	p.aboutme {
 		color: #79485C;
 		line-height: 1.5em;
-		font-size: 1em;
+		font-size: 0.7em;
 	}
 
 	h1, h4, h5, h6 {
