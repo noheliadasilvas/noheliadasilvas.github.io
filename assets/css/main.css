@@ -130,15 +130,18 @@ input, select, textarea {
 		font-size: 2em;
 	}
 
-	p {
+	p.descriptions {
 		color: #52616A; 
 		font-weight: 300;
 		line-height: 1.5em;
 		font-size: 1.2em;
 	}
 
-	intro-text {
-		color: black;
+	p.intro-text {
+		color: white;
+		font-weight: 400;
+		line-height: 1.5em;
+		font-size: 2em;
 	}
 
 	h1, h4, h5, h6 {
