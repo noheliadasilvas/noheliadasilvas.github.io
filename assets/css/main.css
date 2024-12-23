@@ -158,7 +158,7 @@ input, select, textarea {
 			}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 1.8em;
 	}
 
 	header {
@@ -2000,7 +2000,7 @@ input, select, textarea {
 
 	.item {
 		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
-		margin-bottom: 40px;
+		margin-bottom: 20px;
 	}
 
 		.item header {
@@ -2011,7 +2011,7 @@ input, select, textarea {
 		}
 
 			.item header h3 {
-				font-size: 1em;
+				font-size: 1.3em;
 			}
 
 /* Icons */
@@ -2351,7 +2351,7 @@ input, select, textarea {
 		/* Item */
 
 			.item {
-				margin-bottom: 20px;
+				margin-bottom: 10px;
 			}
 
 		/* Header */
@@ -2424,7 +2424,7 @@ input, select, textarea {
 		/* Item */
 
 			.item {
-				margin-bottom: 15px;
+				margin-bottom: 10px;
 			}
 
 		/* Icons */
