@@ -142,7 +142,7 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.5em;
 		font-size: 1.7em;
-		margin-bottom: 0.3em;
+		margin-bottom: 0;
 	}
 
 	p.intro-text {
