@@ -78,6 +78,12 @@ input, select, textarea {
 	appearance: none;
 }
 
+.degree-icon {
+    width: 50px;
+    height: auto; 
+    object-fit: cover;
+}
+
 /* Basic */
 
 	html {
