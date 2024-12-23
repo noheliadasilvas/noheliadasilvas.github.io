@@ -143,6 +143,14 @@ input, select, textarea {
 		font-size: 1em;
 	}
 
+	p.keycourses {
+		color: #52616A; 
+		font-weight: 300;
+		line-height: 1.5em;
+		font-size: 0.6em;
+	
+	}
+
 	p.aboutme {
 		color: #79485C;
 		line-height: 1.5em;
