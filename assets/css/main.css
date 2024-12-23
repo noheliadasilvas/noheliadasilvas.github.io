@@ -140,7 +140,13 @@ input, select, textarea {
 	p.intro-text {
 		color: white;
 		line-height: 1.5em;
-		font-size: 1.5em;
+		font-size: 1.2em;
+	}
+
+	p.aboutme {
+		color: #79485C;
+		line-height: 1.5em;
+		font-size: 1em;
 	}
 
 	h1, h4, h5, h6 {
