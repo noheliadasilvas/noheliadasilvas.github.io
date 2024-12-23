@@ -79,7 +79,8 @@ input, select, textarea {
 }
 
 .degree-icon {
-    width: 50px;
+    width: 100px;
+	margin: 0;
     height: auto; 
     object-fit: cover;
 }
