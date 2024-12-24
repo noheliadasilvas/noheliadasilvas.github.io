@@ -145,8 +145,8 @@ input, select, textarea {
 	}
 
 	h3.project-header {
-		font-size: 2em;
-		font-weight: 350;
+		font-size: 3em;
+		font-weight: 400;
 		color: #4C6270; 
 		text-align: center;
 	}
@@ -158,6 +158,7 @@ input, select, textarea {
 		font-size: 1.3em;
 		padding: 0.5em;
 		margin-bottom: 0rem;
+		text-align: justify;
 	}
 
 	p.description-projects {
