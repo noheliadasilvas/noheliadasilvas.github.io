@@ -148,7 +148,7 @@ input, select, textarea {
 		color: #52616A; 
 		font-weight: 300;
 		line-height: 1.5em;
-		font-size: 1.2em;
+		font-size: 1.3em;
 		padding: 0.5em;
 		margin-bottom: 0rem;
 		text-align: justify;
@@ -2089,7 +2089,7 @@ input, select, textarea {
 		}
 
 			.item header h3 {
-				font-size: 1.4em;
+				font-size: 1.5em;
 			}
 
 /* Icons */
@@ -2735,7 +2735,7 @@ input, select, textarea {
 
 	.project-link {
 		color: #043b76;
-		font-size: 1.4em;
+		font-size: 1.2em;
 		font-weight: 400;
 		text-decoration: none;
 	}
