@@ -145,8 +145,8 @@ input, select, textarea {
 	}
 
 	h3.project-header {
-		font-size: 1.5em;
-		font-weight: 400;
+		font-size: 2em;
+		font-weight: 350;
 		color: #4C6270; 
 		text-align: center;
 	}
@@ -155,7 +155,8 @@ input, select, textarea {
 		color: #52616A; 
 		font-weight: 300;
 		line-height: 1.5em;
-		font-size: 1em;
+		font-size: 1.3em;
+		padding: 0.5em;
 		margin-bottom: 0rem;
 	}
 
