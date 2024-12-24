@@ -144,7 +144,7 @@ input, select, textarea {
 		font-size: 2em;
 	}
 
-	h3.project-header {
+	header h3.project-header {
 		font-size: 3em;
 		font-weight: 400;
 		color: #4C6270; 
@@ -177,7 +177,6 @@ input, select, textarea {
 		line-height: 1.5em;
 		font-size: 1.7em;
 		margin-bottom: 0rem;
-		text-align: justify;
 	}
 
 	p.date {
