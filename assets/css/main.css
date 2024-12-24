@@ -145,7 +145,7 @@ input, select, textarea {
 	}
 
 	p.portfolio-description {
-		color: #52616A; 
+		color: #4C6270; 
 		font-weight: 300;
 		line-height: 1.5em;
 		font-size: 1.3em;
@@ -2758,6 +2758,6 @@ input, select, textarea {
 
 	header h3.project-header {
 		font-weight: 400;
-		color: #4C6270; 
+		color: black; 
 		text-align: center;
 	}
