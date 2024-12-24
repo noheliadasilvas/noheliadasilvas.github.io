@@ -85,6 +85,13 @@ input, select, textarea {
     object-fit: cover;
 }
 
+.degree-lilly {
+    width: 120px;
+	margin: 0;
+    height: auto; 
+    object-fit: cover;
+}
+
 /* Basic */
 
 	html {
