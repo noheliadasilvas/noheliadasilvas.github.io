@@ -2501,6 +2501,13 @@ input, select, textarea {
 				font-size: 1.25em;
 			}
 
+		.project-header h3 {
+			font-size: 1.5em;
+			font-weight: 400;
+			color: #4C6270; 
+			text-align: center;
+		}
+
 		/* Header */
 
 			#header {
@@ -2530,11 +2537,6 @@ input, select, textarea {
 				box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
 			}
 
-			#header h3 {
-				color: black;
-				font-size: 1.2em;
-				text-align: left;
-			}
 
 				#header .top {
 					position: relative;
