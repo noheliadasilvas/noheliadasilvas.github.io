@@ -154,6 +154,16 @@ input, select, textarea {
 		text-align: justify;
 	}
 
+	p.credentials {
+		color: #52616A; 
+		font-weight: 200;
+		margin-bottom: 0.5px;
+		font-size: 1.2em;
+		padding: 0.5em;
+		padding: 0;
+		text-align: center;
+	}
+
 	p.description-projects {
 		color: #52616A; 
 		font-weight: 300;
