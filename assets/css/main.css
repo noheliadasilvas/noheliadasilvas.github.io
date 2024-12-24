@@ -144,21 +144,21 @@ input, select, textarea {
 		font-size: 2em;
 	}
 
+	p.description-projects {
+		color: #52616A; 
+		font-weight: 300;
+		line-height: 1.5em;
+		font-size: 1.5em;
+		margin-bottom: 0rem;
+		text-align: left;
+	}
+
 	p.descriptions {
 		color: #52616A; 
 		font-weight: 300;
 		line-height: 1.5em;
 		font-size: 1.7em;
 		margin-bottom: 0rem;
-	}
-
-	p.description-projects {
-		color: #52616A; 
-		font-weight: 300;
-		line-height: 1.5em;
-		font-size: 1.7em;
-		margin-bottom: 0rem;
-		align-items: left;
 	}
 
 	p.date {
