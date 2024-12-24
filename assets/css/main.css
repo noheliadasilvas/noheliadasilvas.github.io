@@ -144,13 +144,6 @@ input, select, textarea {
 		font-size: 2em;
 	}
 
-	header h3.project-header {
-		font-size: 3em;
-		font-weight: 400;
-		color: #4C6270; 
-		text-align: center;
-	}
-
 	p.portfolio-description {
 		color: #52616A; 
 		font-weight: 300;
@@ -2743,13 +2736,20 @@ input, select, textarea {
 	}
 
 	.project-link {
-		color: #007BFF;
+		color: #043b76;
+		font-size: 1.4em;
 		font-weight: 400;
 		text-decoration: none;
-		transition: color 0.3s ease;
 	}
 
 	.project-link:hover {
-		color: #0056b3;
+		color: #2778cf;
 		text-decoration: underline;
+	}
+
+	h3.project-header {
+		font-size: 3em;
+		font-weight: 400;
+		color: #4C6270; 
+		text-align: center;
 	}
