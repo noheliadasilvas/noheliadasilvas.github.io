@@ -204,17 +204,6 @@ input, select, textarea {
 		font-size: 1em;
 	}
 
-	.project-link {
-		color: #007BFF;
-		font-weight: 400;
-		text-decoration: none;
-		transition: color 0.3s ease;
-	}
-
-	.project-link:hover {
-		color: #0056b3;
-		text-decoration: underline;
-	}
 
 	h1, h4, h5, h6 {
 		font-weight: 300;
