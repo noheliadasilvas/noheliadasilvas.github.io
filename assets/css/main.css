@@ -144,6 +144,21 @@ input, select, textarea {
 		font-size: 2em;
 	}
 
+	h3.project-header {
+		font-size: 1.5em;
+		font-weight: 400;
+		color: #4C6270; 
+		text-align: center;
+	}
+
+	p.portfolio-description {
+		color: #52616A; 
+		font-weight: 300;
+		line-height: 1.5em;
+		font-size: 1em;
+		margin-bottom: 0rem;
+	}
+
 	p.description-projects {
 		color: #52616A; 
 		font-weight: 300;
@@ -2501,12 +2516,7 @@ input, select, textarea {
 				font-size: 1.25em;
 			}
 
-		.project-header {
-			font-size: 1.5em;
-			font-weight: 400;
-			color: #4C6270; 
-			text-align: center;
-		}
+		
 
 		/* Header */
 
