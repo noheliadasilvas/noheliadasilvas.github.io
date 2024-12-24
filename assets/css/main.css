@@ -2085,11 +2085,11 @@ input, select, textarea {
 			background: #fff;
 			margin: 0;
 			padding: 1em 0 1em 0;
-			font-size: 1.2em;
+			font-size: 1.4em;
 		}
 
 			.item header h3 {
-				font-size: 1.5em;
+				font-size: 1em;
 			}
 
 /* Icons */
@@ -2735,7 +2735,7 @@ input, select, textarea {
 
 	.project-link {
 		color: #043b76;
-		font-size: 1em;
+		font-size: 1.4em;
 		font-weight: 400;
 		text-decoration: none;
 	}
