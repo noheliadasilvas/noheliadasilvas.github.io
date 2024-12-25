@@ -10,6 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 	</head>
 	<body class="is-preload">
 
@@ -70,15 +71,22 @@
 
 				<!-- Intro -->
 				<section id="top" class="one dark cover">
+					<model-viewer
+						src="images/model1.glb"
+						alt="3D Background Model"
+						auto-rotate
+						camera-controls
+						disable-zoom
+						style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; z-index: -1; background: transparent;">
+					</model-viewer>
 					<div class="container">
-
 						<header>
 							<h2 class="alt">Hi! I'm <strong>Nohelia Da Silva</strong>!</h2>
 							<p class="intro-text">I’m a software engineer at Eli Lilly. I’m passionate about medicine and understanding the human body and brain. I love using technology and coding to solve problems and make a real difference in people’s lives.</p>
 						</header>
-
 					</div>
-				</section> 
+				</section>
+				
 
 				<!-- Education -->
 				<section id="education" class="two">
