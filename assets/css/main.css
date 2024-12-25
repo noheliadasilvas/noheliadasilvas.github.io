@@ -2765,21 +2765,20 @@ input, select, textarea {
 	.dog-photo {
 		display: flex;
 		justify-content: center;
-		gap: 10px;
+		gap: 20px;
 	}
 	
 	.dog-photo img {
-		width: 150px;
-		height: auto;
+		width: auto;
+		height: 100%;
 	}
 
 	video {
 		display: block;
-		margin: 0 auto; /* Centers the video */
-		width: auto; /* Keeps the width responsive */
-		height: 100%; /* Adjusts the height to fit naturally */
-		max-width: 100%; /* Ensures it doesn't overflow the container */
-		max-height: 500px; /* Optional: Limits the height for better layout */
-		border-radius: 8px; /* Adds rounded corners */
-		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+		margin: 0 auto;
+		width: auto;
+		height: 100%;
+		max-width: 100%;
+		max-height: 500px;
+		margin-bottom: 10px;
 	}
