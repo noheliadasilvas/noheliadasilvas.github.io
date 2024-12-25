@@ -2784,28 +2784,25 @@ input, select, textarea {
 		margin-bottom: 10px;
 	}
 
-	/* Set the iframe to fill horizontally with a better height */
 .sketchfab-embed-wrapper iframe {
     width: 100%;
-    height: 80vh; /* Adjust height dynamically to a more visually balanced size */
+    height: 80vh;
     position: absolute;
     top: 0;
     left: 0;
-    z-index: -1; /* Keep it behind the text */
-    object-fit: cover; /* Ensure the model fits the space without distortion */
+    z-index: -1;
+    object-fit: cover;
 }
 
-/* Container styles for text over the iframe */
 #top .container {
     position: relative;
-    z-index: 1; /* Ensure the text stays on top */
+    z-index: 1;
     text-align: center;
     color: white;
-    padding: 20px;
-    margin-top: 20vh; /* Push text lower for visual balance */
+    padding: 10px;
+    margin-top: 10vh;
 }
 
-/* Header text styling */
 #top h2.alt {
     font-size: 3rem;
     font-weight: bold;
@@ -2814,10 +2811,9 @@ input, select, textarea {
 
 #top p.intro-text {
     font-size: 1.5rem;
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
-/* Ensure the section wraps properly */
 #top {
     position: relative;
     overflow: hidden;
