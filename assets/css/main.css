@@ -2766,11 +2766,13 @@ input, select, textarea {
 		display: flex;
 		justify-content: center;
 		gap: 20px;
+		flex-wrap: wrap;
 	}
 	
 	.dog-photo img {
-		width: auto;
-		height: 100%;
+		max-width: 100%; 
+		height: auto;
+		width: 150px;
 	}
 
 	video {
