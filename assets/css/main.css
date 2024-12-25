@@ -2784,25 +2784,5 @@ input, select, textarea {
 		margin-bottom: 10px;
 	}
 
-	#top {
-		position: relative;
-		width: 100%;
-		height: 100vh; /* Make the section full height */
-		overflow: hidden; /* Prevent scrollbars if the model overflows */
-	}
 	
-	#top .container {
-		position: relative;
-		z-index: 1; /* Ensure content appears above the 3D model */
-		text-align: center; /* Center-align text content */
-	}
-	
-	model-viewer {
-		width: 100%;
-		height: 100%;
-		position: absolute;
-		top: 0;
-		left: 0;
-		z-index: -1;
-	}
 	
