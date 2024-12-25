@@ -2354,11 +2354,11 @@ input, select, textarea {
 				background-size: cover;
 				background-position: center center;
 			}
-
+/* 
 			#main > section.one {
 				background-color: #81918E;
 				background-image: url("../../images/banner.jpg");
-			}
+			} */
 
 			#main > section.two {
 				background-color: #f5fafa;
@@ -2804,7 +2804,7 @@ input, select, textarea {
 		position: absolute;
 		top: 0;
 		left: 0;
-		z-index: -1; /* Place the 3D model behind the content */
+		z-index: -1;
 		background: transparent;
 	}
 	
