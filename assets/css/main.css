@@ -2784,5 +2784,45 @@ input, select, textarea {
 		margin-bottom: 10px;
 	}
 
+	/* Make the iframe fill horizontally and adjust vertically */
+.sketchfab-embed-wrapper iframe {
+    width: 100%;
+    height: auto; /* Adjust height dynamically */
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1; /* Push the iframe to the background */
+}
+
+/* Container styles for text over the iframe */
+#top .container {
+    position: relative;
+    z-index: 1; /* Ensure the text stays on top */
+    text-align: center;
+    color: white;
+    padding: 40px 20px;
+}
+
+/* Header text styling */
+#top h2.alt {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+#top p.intro-text {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+/* Ensure the section wraps around the content */
+#top {
+    position: relative;
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
 	
 	
