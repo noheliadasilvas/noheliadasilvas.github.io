@@ -132,7 +132,7 @@ input, select, textarea {
 
 	h2 {
 		font-weight: 400;
-		color: #E27689;
+		color: #FF7F50;
 		line-height: 1.5em;
 		margin-top: 0; 
 	}
@@ -2154,7 +2154,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #2B1D35 url("images/overlay.png");
+		background: #2A1E45 url("images/overlay.png");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		color: #fff;
 		height: 100%;
