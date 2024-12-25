@@ -2795,7 +2795,6 @@ input, select, textarea {
 		position: relative;
 		z-index: 1; /* Ensure content appears above the 3D model */
 		text-align: center; /* Center-align text content */
-		color: white; /* Adjust text color for better readability */
 	}
 	
 	model-viewer {
@@ -2805,6 +2804,5 @@ input, select, textarea {
 		top: 0;
 		left: 0;
 		z-index: -1;
-		background: transparent;
 	}
 	
