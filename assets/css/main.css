@@ -132,7 +132,8 @@ input, select, textarea {
 
 	h2 {
 		font-weight: 400;
-		color: #FF7F50;
+		color: #CC5C3D;
+		/* color: #FF7F50; */
 		line-height: 1.5em;
 		margin-top: 0; 
 	}
@@ -2278,7 +2279,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #FFD700; 
 					}
 
 /* Footer */
