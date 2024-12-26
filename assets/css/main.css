@@ -131,9 +131,9 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-weight: 400;
-		color: #E2853E;
-    	text-shadow: 0px 0px 5px #FFD700, 0px 0px 10px #FFAA33;
+		font-weight: bold;
+		/* color: #E2853E; */
+		background: linear-gradient(45deg, #E2853E, #FFD700);
 		line-height: 1.5em;
 		margin-top: 0; 
 	}
