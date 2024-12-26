@@ -2096,15 +2096,14 @@ input, select, textarea {
 		border-radius: 10px;
 		box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 		padding: 20px;
-		margin: 10px;
-		border: 2px solid #CC5C3D;
+		margin-bottom: 20px;
 	}
 
 	.item:hover {
 		transform: translateY(-5px);
 		transition: transform 0.3s ease;
 	  }
-	  
+
 		.item header {
 			background: #fff;
 			margin: 0;
