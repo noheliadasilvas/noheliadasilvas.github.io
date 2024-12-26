@@ -132,7 +132,10 @@ input, select, textarea {
 
 	h2 {
 		font-weight: 400;
-		color: #CC5C3D;
+		color: #E2853E;
+    	text-shadow: 0px 0px 5px #FFD700, 0px 0px 10px #FFAA33;
+		/* color: #D87A4A; */
+		/* color: #CC5C3D; */
 		/* color: #FF7F50; */
 		line-height: 1.5em;
 		margin-top: 0; 
