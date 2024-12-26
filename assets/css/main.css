@@ -2292,7 +2292,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						/* color: #FFD700;  */
+						/* color: #f8d304; */
 						color: #F4ECF8;
 					}
 
@@ -2375,24 +2375,27 @@ input, select, textarea {
 			} */
 
 			#main > section.two {
-				background-color: #FDF4F1; /* Warm peach */
-			}
-			
-			#main > section.three {
-				background-color: #F8ECE7; /* Soft pinkish beige */
-			}
-			
-			#main > section.four {
-				background-color: #F8F2FA; /* Light lavender-grey */
-			}
-			
-			#main > section.five {
-				background-color: #F9F9F9; /* Neutral off-white */
-			}
-			
-			#main > section.six {
-				background-color: #F6EAF6; /* Soft pastel lavender */
-			}
+                /* background-color: #f5fafa; */
+                background-color: #FDF4F1;
+            }
+
+            #main > section.three {
+                /* background-color: #F4F6F9; */
+				background-color: #F4ECF8;
+            }
+
+            #main > section.four {
+                background-color: #F8F2FA;
+            }
+
+            #main > section.five {
+                background-color: #F9F9F9;
+            }
+
+
+            #main > section.six {
+                background-color: #F6EAF6;
+            }
 			
 
 			
