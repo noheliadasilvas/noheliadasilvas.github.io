@@ -136,6 +136,7 @@ input, select, textarea {
 		color: #E96443;
 		line-height: 1.5em;
 		margin-top: 0; 
+		text-shadow: 5px 5px 15px #000;
 	}
 
 	h3 {
@@ -2706,7 +2707,7 @@ input, select, textarea {
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: 0;
-				font-weight: 300;
+				font-weight: bold;
 			}
 
 			.container {
@@ -2826,7 +2827,6 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		padding: 0;
-		border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 	}
 
 
