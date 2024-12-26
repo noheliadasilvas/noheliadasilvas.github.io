@@ -132,7 +132,8 @@ input, select, textarea {
 
 	h2 {
 		font-weight: bold;
-		color: #E2853E;
+		/* color: #E2853E; */
+		color: #E96443;
 		line-height: 1.5em;
 		margin-top: 0; 
 	}
@@ -233,6 +234,7 @@ input, select, textarea {
 
 		h2.alt {
 			color: #888;
+			text-shadow: 1px 1px 5px #000;
 		}
 
 			h2.alt strong {
@@ -2807,7 +2809,7 @@ input, select, textarea {
 		font-size: 3rem;
 		font-weight: bold;
 		margin-bottom: 10px;
-		color: rgb(236, 236, 0);
+		text-shadow: 1px 1px 5px #000;
 	}
 
 	#top p.intro-text {
