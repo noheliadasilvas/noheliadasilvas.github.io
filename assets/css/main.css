@@ -2375,27 +2375,25 @@ input, select, textarea {
 			} */
 
 			#main > section.two {
-				/* background-color: #f5fafa; */
-				background-color: #FDF4F1;
+				background-color: #FDF4F1; /* Warm peach */
 			}
-
+			
 			#main > section.three {
-				/* background-color: #ecf1f1; */
-				background-color: #F4F6F9;
+				background-color: #F8ECE7; /* Soft pinkish beige */
 			}
-
+			
 			#main > section.four {
-				background-color: #F8F2FA;
+				background-color: #F8F2FA; /* Light lavender-grey */
 			}
-
+			
 			#main > section.five {
-				background-color: #F9F9F9;
+				background-color: #F9F9F9; /* Neutral off-white */
 			}
-
-
+			
 			#main > section.six {
-				background-color: #F4ECF8;
+				background-color: #F6EAF6; /* Soft pastel lavender */
 			}
+			
 
 			
 
