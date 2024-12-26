@@ -2292,7 +2292,8 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #FFD700; 
+						/* color: #FFD700;  */
+						color: #F4ECF8;
 					}
 
 /* Footer */
@@ -2380,7 +2381,7 @@ input, select, textarea {
 
 			#main > section.three {
 				/* background-color: #ecf1f1; */
-				background-color: #EFF4F8;
+				background-color: #F4F6F9;
 			}
 
 			#main > section.four {
@@ -2393,7 +2394,7 @@ input, select, textarea {
 
 
 			#main > section.six {
-				background-color: #E8E0EE;
+				background-color: #F4ECF8;
 			}
 
 			
