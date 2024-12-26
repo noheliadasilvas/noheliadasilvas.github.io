@@ -184,7 +184,7 @@ input, select, textarea {
 	}
 
 	p.date {
-		color: #52616A; 
+		color: #2D2E32; 
 		font-weight: 300;
 		line-height: 1.5em;
 		font-size: 1.7em;
@@ -195,7 +195,6 @@ input, select, textarea {
 		color: white;
 		line-height: 1.5em;
 		font-size: 1.2em;
-		-webkit-text-stroke: 0.5px black;
 	}
 
 	p.keycourses {
