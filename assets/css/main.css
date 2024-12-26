@@ -2292,8 +2292,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						/* color: #f8d304; */
-						color: #F4ECF8;
+						color: #f8d304;
 					}
 
 /* Footer */
@@ -2375,26 +2374,24 @@ input, select, textarea {
 			} */
 
 			#main > section.two {
-                /* background-color: #f5fafa; */
                 background-color: #FDF4F1;
             }
 
             #main > section.three {
-                /* background-color: #F4F6F9; */
 				background-color: #F4ECF8;
             }
 
             #main > section.four {
-                background-color: #F8F2FA;
+                background-color: #FDF4F1;
             }
 
             #main > section.five {
-                background-color: #F9F9F9;
+                background-color: #F4ECF8;
             }
 
 
             #main > section.six {
-                background-color: #F6EAF6;
+                background-color: #FDF4F1;
             }
 			
 
