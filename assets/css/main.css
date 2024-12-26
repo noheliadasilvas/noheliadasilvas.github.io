@@ -2374,11 +2374,13 @@ input, select, textarea {
 			} */
 
 			#main > section.two {
-				background-color: #f5fafa;
+				/* background-color: #f5fafa; */
+				background-color: #FDF4F1;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				/* background-color: #ecf1f1; */
+				background-color: #E6DBE4;
 			}
 
 			#main > section.four {
