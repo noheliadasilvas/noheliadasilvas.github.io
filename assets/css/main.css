@@ -2760,14 +2760,14 @@ input, select, textarea {
 	}
 
 	.project-link {
-		color: #043b76;
+		color: #1a122e;
 		font-size: 1.2em;
 		font-weight: 400;
 		text-decoration: none;
 	}
 
 	.project-link:hover {
-		color: #2778cf;
+		color: #281d43;
 		text-decoration: underline;
 	}
 
