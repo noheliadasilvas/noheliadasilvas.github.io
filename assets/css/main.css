@@ -234,7 +234,7 @@ input, select, textarea {
 
 		h2.alt {
 			color: #888;
-			text-shadow: 1px 1px 5px #000;
+			text-shadow: 2px 2px 8px #000;
 		}
 
 			h2.alt strong {
@@ -2815,6 +2815,7 @@ input, select, textarea {
 	#top p.intro-text {
 		font-size: 1.3rem;
 		line-height: 1.5;
+		text-shadow: 1px 1px 5px #000;
 	}
 
 	#top {
