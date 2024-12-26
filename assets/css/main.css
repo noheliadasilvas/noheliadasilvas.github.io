@@ -2809,13 +2809,13 @@ input, select, textarea {
 		font-size: 3rem;
 		font-weight: bold;
 		margin-bottom: 10px;
-		text-shadow: 1px 1px 5px #000;
+		text-shadow: 5px 5px 15px #000;
 	}
 
 	#top p.intro-text {
 		font-size: 1.3rem;
 		line-height: 1.5;
-		text-shadow: 1px 1px 5px #000;
+		text-shadow: 5px 5px 15px #000;
 	}
 
 	#top {
