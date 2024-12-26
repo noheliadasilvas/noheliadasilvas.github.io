@@ -136,7 +136,7 @@ input, select, textarea {
 		color: #E96443;
 		line-height: 1.5em;
 		margin-top: 0; 
-		-webkit-text-stroke: 3px #000000;
+		-webkit-text-stroke: 1px #000000;
 	}
 
 	h3 {
