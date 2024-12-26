@@ -2092,7 +2092,7 @@ input, select, textarea {
 	.item {
 		/* box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
 		margin-bottom: 20px; */
-		background: linear-gradient(135deg, #ffffff, #f0f8ff);
+		/* background: linear-gradient(135deg, #ffffff, #f0f8ff); */
 		border-radius: 10px;
 		box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 		padding: 20px;
