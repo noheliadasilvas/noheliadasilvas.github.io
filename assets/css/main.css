@@ -2368,19 +2368,17 @@ input, select, textarea {
 				background-size: cover;
 				background-position: center center;
 			}
-/* 
+
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
-			} */
+			}
 
 			#main > section.two {
 				background-color: #f5fafa;
 			}
 
 			#main > section.three {
-				/* background-color: #ecf1f1; */
-				background-color: red;
+				background-color: #ecf1f1;
 			}
 
 			#main > section.four {
@@ -2761,14 +2759,14 @@ input, select, textarea {
 	}
 
 	.project-link {
-		color: #1a122e;
+		color: #1e1535;
 		font-size: 1.2em;
 		font-weight: 400;
 		text-decoration: none;
 	}
 
 	.project-link:hover {
-		color: #281d43;
+		color: #433368;
 		text-decoration: underline;
 	}
 
