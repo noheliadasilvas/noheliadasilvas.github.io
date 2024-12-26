@@ -133,7 +133,7 @@ input, select, textarea {
 	h2 {
 		font-weight: bold;
 		/* color: #E2853E; */
-		background: linear-gradient(45deg, #E2853E, #FFD700);
+		color: linear-gradient(45deg, #E2853E, #FFD700);
 		line-height: 1.5em;
 		margin-top: 0; 
 	}
